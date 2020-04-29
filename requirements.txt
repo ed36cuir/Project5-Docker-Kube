@@ -9,7 +9,7 @@ MarkupSafe==1.1.1
 mccabe==0.6.1
 numpy==1.17.2
 pandas==0.24.2
-pkg-resources==0.0.0
+python-pkg-resources
 pylint==2.5.0
 python-dateutil==2.8.0
 pytz==2019.3
