@@ -1,6 +1,6 @@
 astroid==2.4.0
 Click==7.0
-Flask==1.1.12
+Flask==1.1.2
 isort==4.3.21
 itsdangerous==1.1.0
 Jinja2==2.10.3
