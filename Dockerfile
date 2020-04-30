@@ -7,6 +7,8 @@ WORKDIR /app
 ## Step 2:
 # Copy source code to working directory
 COPY . /app.py/
+COPY . /requirements.txt/
+
 
 ## Step 3:
 # Install packages from requirements.txt
@@ -21,3 +23,7 @@ EXPOSE 80
 ## Step 5:
 # Run app.py at container launch
 CMD ["python", "app.py"]
+
+## Step 6:
+## Copy rest of source code
+COPY . .
