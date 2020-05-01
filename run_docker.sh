@@ -12,4 +12,4 @@ docker image ls
 
 # Step 3:
 # Run flask app
-docker run -it --rm --name predict-data predict-data:0.1
+docker run  --publish 8000:8080 -it --rm --name predict-data predict-data:0.1
