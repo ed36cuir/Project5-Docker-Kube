@@ -1,5 +1,4 @@
-[![CircleCI](https://circleci.com/gh/ed36cuir/Project5-Docker-Kube
-.svg?style](https://app.circleci.com/pipelines/github/ed36cuir/Project5-Docker-Kube/23/workflows/f689990d-5318-4417-be7e-991d5a321798)
+[![CircleCI](https://circleci.com/gh/ed36cuir/Project5-Docker-Kube.svg?style)](https://app.circleci.com/pipelines/github/ed36cuir/Project5-Docker-Kube/23/workflows/f689990d-5318-4417-be7e-991d5a321798)
 
 # Project5-Docker-Kube
 Operationalize microservices by deploying a machine an API using docker &amp; kubernetes.
