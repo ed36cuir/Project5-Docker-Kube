@@ -12,7 +12,6 @@ setup:
 
 install:
 	#This should be running inside an environment
-	sudo apt-get install -y python-pkg-resources
 	pip3 install --upgrade pip &&\
 		pip3 install -r requirements.txt
 
